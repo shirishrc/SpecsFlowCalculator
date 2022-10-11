@@ -1,0 +1,12 @@
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/bin/Debug/net6.0/SpecsFlowCalculator.deps.json
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/bin/Debug/net6.0/SpecsFlowCalculator.dll
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/bin/Debug/net6.0/SpecsFlowCalculator.pdb
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.csproj.AssemblyReference.cache
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.AssemblyInfoInputs.cache
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.AssemblyInfo.cs
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.csproj.CoreCompileInputs.cache
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.dll
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/refint/SpecsFlowCalculator.dll
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/SpecsFlowCalculator.pdb
+/Users/shirishchachadi/RiderProjects/SpecsFlowCalculator/SpecsFlowCalculator/obj/Debug/net6.0/ref/SpecsFlowCalculator.dll
